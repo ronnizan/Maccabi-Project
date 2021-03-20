@@ -1,0 +1,110 @@
+[
+  {
+    "username": "steven",
+    "email": "steven@gmail.com",
+    "age": 22,
+    "createdAt": 1615985836967
+  },
+  {
+    "username": "andy",
+    "email": "andy@gmail.com",
+    "age": 16,
+    "createdAt": 1615985843561
+  },
+  {
+    "username": "mike",
+    "email": "mike@gmail.com",
+    "age": 26,
+    "createdAt": 1615985853999
+  },
+  {
+    "username": "anthony",
+    "email": "anthony@gmail.com",
+    "age": 34,
+    "createdAt": 1615985961869
+  },
+  {
+    "username": "amanda",
+    "email": "amanda@gmail.com",
+    "age": 43,
+    "createdAt": 1615987946551
+  },
+  {
+    "username": "jenny",
+    "email": "jenny@gmail.com",
+    "age": 51,
+    "createdAt": 1615987978209
+  },
+  {
+    "username": "Michael",
+    "email": "Michael@gmail.com",
+    "age": 61,
+    "createdAt": 1616017375675
+  },
+  {
+    "username": "Sara",
+    "email": "Sara@gmail.com",
+    "age": 31,
+    "createdAt": 1616018397725
+  },
+  {
+    "username": "Joe",
+    "email": "Joe@gmail.com",
+    "age": 55,
+    "createdAt": 1616065871270
+  },
+  {
+    "username": "Elon",
+    "email": "Elon@gmail.com",
+    "age": 16,
+    "createdAt": 1616073249217
+  },
+  {
+    "username": "Bill",
+    "email": "Bill@gmail.com",
+    "age": 8,
+    "createdAt": 1616073607583
+  },
+  {
+    "username": "Dave",
+    "email": "Dave@walla.com1",
+    "age": 42,
+    "createdAt": 1616074556848
+  },
+  {
+    "username": "Noam",
+    "email": "noam@gmail.com",
+    "age": 27,
+    "createdAt": 1616075708076
+  },
+  {
+    "username": "Jack",
+    "email": "Jack@gmail.com",
+    "age": 47,
+    "createdAt": 1616075805366
+  },
+  {
+    "username": "Yuval",
+    "email": "Yuval@gmail.com",
+    "age": 54,
+    "createdAt": 1616076327654
+  },
+  {
+    "username": "Dana",
+    "email": "dana@gmail.com",
+    "age": 43,
+    "createdAt": 1616137670077
+  },
+  {
+    "username": "Josh",
+    "email": "Josh@gmail.com",
+    "age": 52,
+    "createdAt": 1616137763417
+  },
+  {
+    "username": "Brad",
+    "email": "Brad@gmail.com",
+    "age": 22,
+    "createdAt": 1616155675296
+  }
+]

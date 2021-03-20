@@ -1,0 +1,104 @@
+.Table__Container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 40px;
+}
+
+.Table {
+  max-width: 800px;
+  margin: 10px auto;
+  background: white;
+  border: 0.5px solid lightgray;
+  border-collapse: collapse;
+}
+
+.Table_Title {
+  margin: 0 0 30px 0;
+  text-align: center;
+  font-family: 'Nunito', sans-serif;
+  border-bottom: 1px solid gray;
+}
+
+.Table_SortButtonWrapper {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+}
+
+.Table_SortButton {
+  font-size: 1rem;
+  margin: 5px;
+  cursor: pointer;
+  outline: none;
+  border-radius: 20px;
+  border: none;
+  padding: 10px;
+  width: 200px;
+}
+
+.Table_SortButton:hover {
+  transform: scale(1.1);
+}
+
+tr.Table__RowBody:nth-of-type(odd) {
+  background: #eee;
+}
+
+.Table__Thead {
+  background: #3498dbb2;
+}
+
+.Table__HeaderCell {
+  font-size: 1.3rem;
+  color: black;
+  padding: 20px;
+  border: 0.5px solid lightgray;
+}
+
+.Table__BodyCell {
+  padding: 20px;
+  border: 0.5px solid lightgray;
+  font-size: 1.4rem;
+  text-align: center;
+}
+
+.Table__PageNumberButtons_Wrapper {
+  display: flex;
+}
+
+.Table__PageNumberBtn {
+  padding: 10px;
+  font-size: 1rem;
+  margin-bottom: 15px;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  background: none;
+}
+
+.ActivePage {
+  font-weight: bold;
+}
+
+.ActiveSort {
+  background-color: lightgreen;
+  font-weight: bold;
+}
+
+@media screen and (max-width: 450px) {
+  .Table__HeaderCell {
+    padding: 10px;
+    font-size: 1.2rem;
+    padding: 10px;
+  }
+  .Table__BodyCell {
+    padding: 10px;
+    font-size: 1rem;
+    padding: 5px;
+  }
+  .Table_SortButton {
+    font-size: 0.8rem;
+  }
+}

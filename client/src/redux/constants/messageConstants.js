@@ -1,0 +1,3 @@
+export const SHOW_MESSAGE = 'SHOW_MESSAGE';
+export const SHOW_MESSAGE_SAGA = 'SHOW_MESSAGE_SAGA';
+export const RESET_MESSAGE = 'RESET_MESSAGE';
